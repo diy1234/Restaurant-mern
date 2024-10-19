@@ -5,38 +5,38 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "We ensure every dish meets the highest standards of freshness, taste, and hygiene." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description":"Delight your taste buds with effortless reservations and unforgettable dining experiences" 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Enjoy instant booking confirmation and swift service for a hassle-free dining experience." 
             }
         ],
         "dishes": [
             {
                 "id": 1,
                 "image": "./dinner1.jpeg",
-                "title": "ROASTED LAMB RUMP",
+                "title": "CHOLE BHATURE",
                 "category": "Dinner"
             },
             {
                 "id": 2,
                 "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
+                "title": "DAL KHICHDI",
                 "category": "Dinner"
             },
             {
                 "id": 3,
                 "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
+                "title": "RAJMA RICE",
                 "category": "Breakfast"
             },
             {
@@ -48,25 +48,25 @@
             {
                 "id": 5,
                 "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
+                "title": "ROTI",
                 "category": "Lunch"
             },
             {
                 "id": 6,
                 "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
+                "title": "LEMON RICE",
                 "category": "Dinner"
             },
             {
                 "id": 7,
                 "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
+                "title": "SHAHI PANEER",
                 "category": "Dinner"
             },
             {
                 "id": 8,
                 "image": "./dinner6.png",
-                "title": "GRILLED FISH",
+                "title": "DAL MAKHANI",
                 "category": "Dinner"
             }
         ],
@@ -74,25 +74,25 @@
             {
                 "id": 1,
                 "image": "./team_member_1.png",
-                "name": "JOHNATHAN TYLER",
+                "name": "AARAV SHARMA",
                 "designation": "Founder & Head Chef"
             },
             {
                 "id": 2,
                 "image": "./team_member_2.png",
-                "name": "WADE WARREN",
+                "name": "KARAN DESAI",
                 "designation": "Sous Chef"
             },
             {
                 "id": 3,
                 "image": "./team_member_3.png",
-                "name": "JHON DOE",
+                "name": "NISHA THOMAS",
                 "designation": "Fast Food Chef"
             },
             {
                 "id": 4,
                 "image": "./team_member_4.png",
-                "name": "ALEX COAL",
+                "name": "TARA IYER",
                 "designation": "Senior Chef"
             }
         ],
@@ -138,7 +138,7 @@
             {
                 "id": 4,
                 "number": "200",
-                "title": "Food Dishes"
+                "title": "Easy_Solutions"
             }
         ],
         "navbarLinks": [
